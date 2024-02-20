@@ -1,2 +1,2 @@
 # gener-sausage-mod
-the source files for gener sausage mod
+the files for gener sausage mod
